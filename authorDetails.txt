@@ -1,3 +1,3 @@
-author:
-regNo:
-email:
+author name: Richard Kondowe
+Registration Number: BICT1321
+email address: richardkondwe8@gmail.com
