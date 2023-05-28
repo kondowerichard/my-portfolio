@@ -43,8 +43,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-
-    
   }
   
   .shape {
@@ -54,7 +52,7 @@ body{
     border-radius: 50%;
    margin-right: 200px;
     margin-top: 10%;
-   
+   w
   }
   
   .shape img {
