@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: darkgray;
+
+}
+body{
+    background-image: url(background.jpg);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.caption{
+    font-size: small;
+    color: goldenrod;
+}
