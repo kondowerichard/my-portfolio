@@ -21,11 +21,11 @@
        <h1>MY PORTFOLIO</h1>
       </div>
         <ul>
-          <li><a href="/index.html">Home</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="/skills.html">Skills</a></li>
-          <li><a href="/Featured Projects.html">Featured Projects</a></li>
-          <li><a href="/Contact Us.html">Contact Us</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="aboutUs.php">About Us</a></li>
+          <li><a href="skills.php">Skills</a></li>
+          <li><a href="featuredprojects.php">Featured Projects</a></li>
+          <li><a href="contactUs.php">Contact Us</a></li>
         </ul>
       </nav> 
         <div class="mainContent">    
@@ -43,32 +43,6 @@
        </div>
      </div>
       
- <div class="socialMedia">
-        <div class="icon fb">
-            <i class="fa-brands fa-facebook-f"></i>
-            <span>Facebook</span>
-        </div>
-
-        <div class="icon twt">
-            <i class="fa-brands fa-twitter"></i>
-            <span>Twitter</span>
-        </div>
-        
-        <div class="icon lnk">
-            <i class="fa-brands fa-linkedin-in"></i>
-            <span>Linkedin</span>
-        </div>
-
-        <div class="icon git">
-            <i class="fa-brands fa-github"></i>
-            <span>GitHub</span>
-        </div>       
-
-        <div class="icon yt">
-            <i class="fa-brands fa-youtube"></i>
-            <span>YouTube</span>
-        </div>
-    </div>
 </div>
 <footer>
    <p>&copy; copyright richard kondowe 2023 | All Rights Reserved </p>

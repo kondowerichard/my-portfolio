@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #55ffe5;
+    font-size: 14px;
+}
+
+.contactHeading{
+    width: 80%;
+    margin: 50% auto;
+}
+
+.contantDetails{
+    display: flex;
+background: #fff;
+}
+
+.userInfo{
+    flex-basis: 60%;
+    padding: 40px, 60px;
+
+}
+.OurContactInfo{
+    flex-basis: 60%;
+    padding: 40px;
+    background: #1c00b5; 
+    color: #fff;
+}
+*h2{
+    margin-bottom: 10px;
+}
+
+.contactHeading p{
+    
+}
