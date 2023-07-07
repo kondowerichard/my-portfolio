@@ -3,7 +3,7 @@ window.addEventListener('DOMContentLoaded', function() {
     var currentTime = new Date().getHours();
   
     if (currentTime >= 0 && currentTime < 12) {
-      greetingElement.innerHTML = "Good morning!, Rise and shine, it's a brand new day!";
+      greetingElement.innerHTML = "Good morning! Rise and shine, it's a brand new day!";
     } else if (currentTime >= 12 && currentTime < 18) {
       greetingElement.innerHTML = "Good afternoon! Hope you're having a splendid day so far!";
     } else {

@@ -2,37 +2,94 @@
     margin: 0;
     padding: 0;
 }
-
 body{
-    background: #55ffe5;
+    background: url("background.jpg");
     font-size: 14px;
 }
-
-.contactHeading{
+.container{
     width: 80%;
-    margin: 50% auto;
+    margin: 50px auto;
+    margin: 50px auto; 
 }
-
-.contantDetails{
-    display: flex;
-background: #fff;
+.Heading{
+    margin: 50px auto;
+    text-align: center;
 }
+.ContactBox{
+    background: #fff;
+    display: flex; 
 
-.userInfo{
+}
+.MessageBox{
     flex-basis: 60%;
-    padding: 40px, 60px;
-
+    padding: 40px 60px;
+    color: black;
 }
-.OurContactInfo{
-    flex-basis: 60%;
+.ContactUs{
+    flex-basis: 40%;
     padding: 40px;
-    background: #1c00b5; 
-    color: #fff;
+    background: grey;
+    color: black;
 }
-*h2{
+h1{
     margin-bottom: 10px;
+    color: grey;
 }
-
-.contactHeading p{
+.Heading p{
+    margin-bottom: 40px;
+    color: darkgoldenrod;
     
 }
+.UserInput{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.UserInput .InputFeild{
+    flex-basis: 45%;
+}
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding:10px; 
+    box-sizing: border-box;
+}
+label{
+margin-bottom: 6px;
+display: block;
+color: #353535;
+}
+button{
+    width: 100px;
+    background:#353535 ;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.MessageBox h3{
+    font-weight: 600;
+    margin-bottom: 10px
+}
+.ContactUs h3{
+    font-weight: 600;
+    margin-bottom: 10px
+}
+tr td:first-child{
+    padding-right: 20px;
+}
+tr td{
+    padding-top: 15px;
+}
+
+

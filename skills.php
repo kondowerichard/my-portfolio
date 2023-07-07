@@ -6,10 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>skills</title>
     <link rel="stylesheet" href="skills.css">
-   
 </head>
 <body>
-  <h1>My Skills</h1>
+  <h1>MY SKILLS</h1>
 
   <ul id="skills-list">
     <li>
@@ -29,11 +28,7 @@
       <div class="progress-bar">
         <div class="progress" style="width: 80%;"></div>
       </div>
-    </li
-  </ul>
-  
-</body>
-</html>
-
+     </li>
+  </ul> 
 </body>
 </html>

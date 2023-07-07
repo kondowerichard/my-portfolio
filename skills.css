@@ -1,43 +1,43 @@
 body {
+  background: url("background.jpg");
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
+   
+    }
+    h1 {
+      text-align: center;
+      color: grey;
+    }
     
+    #skills-list {
+      list-style: none;
+      padding: 0;
+      margin-top: 30px;
   
-  }
-  
-  h1 {
-    text-align: center;
-    color: grey;
-  }
-  
-  #skills-list {
-    list-style: none;
-    padding: 0;
-    margin-top: 30px;
-
-  }
-  
-  #skills-list li {
-    margin-bottom: 20px;
-    color: goldenrod;
-  }
-  
-  .skill-name {
-    font-weight: bold;
-    display: inline-block;
-    width: 120px;
-  }
-  
-  .progress-bar {
-    background-color: #f0f0f0;
-    height: 20px;
-    border-radius: 15px;
-    overflow: hidden;
-  }
-  
-  .progress {
-    background-color: #4CAF50;
-    height: 100%;
-  }
+    }
+    
+    #skills-list li {
+      margin-bottom: 30px;
+      color: goldenrod;
+    }
+    
+    .skill-name {
+      font-weight: bold;
+      display: inline-block;
+      width: 120px;
+    }
+    
+    .progress-bar {
+      background-color: #f0f0f0;
+      height: 20px;
+      border-radius: 15px;
+      overflow: hidden;
+    }
+    
+    .progress {
+      background-color: #4CAF50;
+      height: 100%;
+    }
+    
   

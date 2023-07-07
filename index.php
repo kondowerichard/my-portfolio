@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my-portfolio</title>
-    <script src="https://kit.fontawesome.com/b356ad9dc8.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
     <script src="time.js"></script>
     </head>
@@ -22,7 +21,6 @@
       </div>
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="aboutUs.php">About Us</a></li>
           <li><a href="skills.php">Skills</a></li>
           <li><a href="featuredprojects.php">Featured Projects</a></li>
           <li><a href="contactUs.php">Contact Us</a></li>

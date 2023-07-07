@@ -10,7 +10,7 @@
 <body>
   <h1>WELCOME TO MY PROJECTS</h1>
 
-<div class="slideshow-container" style="text-align: end;"
+<div class="slideshow-container";
   <div class="mySlides">
     <div class="slideNumber"> 1/3</div>
       <img src="medical.jpg" alt="image" width="35%;">
